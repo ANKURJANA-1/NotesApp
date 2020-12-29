@@ -4,6 +4,16 @@ data store in database
 for publish public i remove the code for database
 you can add this code accoring to your use
 
+#Design Component
+1.viewpager
+2.recyclerview
+3.firebase
+4.firebase authenticator 
+5.tab layout
+6.constrain layout
+7.liear layout
+
+
 
 #login screen
 
